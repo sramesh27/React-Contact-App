@@ -1,0 +1,41 @@
+.todo-app {
+    max-width: 600px;
+    margin: auto;
+  }
+
+  .add-task {
+    margin-bottom: 20px;
+  }
+  
+  .task-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .task-name {
+    font-weight: bold;
+  }
+  
+  .priority {
+    margin-left: 10px;
+  }
+  
+  button {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  .subtask-item {
+    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+  }
+  
+  .subtask-item button {
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  
